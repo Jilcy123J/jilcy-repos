@@ -4,6 +4,7 @@ int main()
 
 
 printf ("welcome to github");
+printf("this is the edited version");
  return 0;
 
 }
